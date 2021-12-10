@@ -10,4 +10,4 @@ fetch('/pasajeros.json').then((response) => response.json()).then((pasajeros)=> 
 	console.log(nombreDePasajeros);
 }); 
 
-//https://www.youtube.com/watch?v=nIctNyBGQcE&ab_channel=EDteam
+//https://www.youtube.com/watch?v=nIctNyBGQcE&ab_channel=EDteam 
