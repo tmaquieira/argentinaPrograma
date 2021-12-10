@@ -1,0 +1,30 @@
+[{"nombre":"lauri",
+"edad":32,
+"precio":200.20,
+"pago":true,
+"asiento":{
+"numero":14,
+"letra":"F",
+"cargador":false
+},
+"historial":[{
+"salida":"New York",
+"destino":"Madrid",
+"fecha":"01/01/2021"}]
+}
+
+{"nombre":"fer",
+"edad":28,
+"precio":500.20,
+"pago":false,
+"asiento":{
+"numero":14,
+"letra":"E",
+"cargador":true
+},
+"historial":[{
+"salida":"New York",
+"destino":"Madrid",
+"fecha":"01/01/2021"}]
+}
+]
