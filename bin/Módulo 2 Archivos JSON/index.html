@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="./script.js" defer></script>
+ <link rel="stylesheet" type="text/css" href="styles.css"> 
+</head>
+<body>
+	<h1>Hola!! Usa esta consola para probar tu codigo</h1>
+	<div id="new">
+		<p id="p1">Argentina</p>
+		<p id="p2">Programa</p>
+	</div>
+ <script>
+ var tag = document.createElement("p");
+ var text = document.createTextNode("Argentina Programa Rulz");
+ tag.appendChild(text);
+ var element = document.getElementById("new");
+ element.appendChild(tag);
+ var JSONObj = {"nombrelibro" : "Facundo", "precio" : 800};
+</script>
+</body>
+</html>
